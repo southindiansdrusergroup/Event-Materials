@@ -1,1 +1,10 @@
+Event #1 (Saturday July 24)
+19:00 - 19:15 -- Opening Remarks, Introductions, Community Announcements
 
+19:15 - 20:00 -- "Introduction to GNU Radio Series, Part 1" by Neel Pandeya
+
+20:00 - 20:45 -- "Introduction to ML Series, Part 1" by Rohan Sundar
+
+20:45 - 21:30 -- "Silice, a Language for Hardcoding Algorithms into FPGA Hardware" by Dr.Sylvain Lefebvre
+
+21:30 - 22:15 -- Closing Remarks
