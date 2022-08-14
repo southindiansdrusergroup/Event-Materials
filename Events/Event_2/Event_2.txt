@@ -1,0 +1,13 @@
+19:00 - 19:18 -- Opening Remarks, Introductions, Community Announcements
+
+19:18 - 19:45 -- "Digital Pre-Distortion Implementation in GNU Radio" by Alekh Gupta
+
+19:45 - 20:20 -- "Antenna and Computational Electromagnetics, Part-1" by Yashodan Vivek
+
+20:20 - 21:00 -- "CaribouLite - Edge-SDR, the Low-Cost SDR for Edge Devices" by David Michaeli
+
+21:00 - 22:10 -- "Silice, a Language for Hardcoding Algorithms into FPGA Hardware" by Dr.Sylvain Lefebvre
+
+22:10 - 23:35 --  "Lab@Home: A Paradigm Shift in Communication and Signal Processing Research and Academics by Software Defined Radio" by Prof.Gandhiraj
+
+23:35 - 23:45 -- Closing Remarks
