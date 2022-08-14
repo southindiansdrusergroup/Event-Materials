@@ -1,0 +1,11 @@
+19:00 - 19:15 -- Opening Remarks, Introductions, Community Announcements
+
+19:15 - 19:45 -- "Introduction to GNU Radio Series, Part 2" by Neel Pandeya
+
+19:45 - 20:15 -- "Silice, a Language for Hardcoding Algorithms into FPGA Hardware" by Dr.Sylvain Lefebvre
+
+20:15 - 20:45 -- "RF Geo-Location for Everyone" by Corey Koval
+
+20:45 - 21:15 -- "Overview of Wireless Channels, Part 1" by Aditya Arun Kumar
+
+21:15 - 21:30 -- Closing Remarks
