@@ -1,3 +1,5 @@
+Event #4 (2022-07-30)-- Saturday
+
 19:00 - 19:15 -- Opening Remarks, Introductions, Community Announcements
 
 19:15 - 19:45 -- "Introduction to GNU Radio Series, Part 2" by Neel Pandeya
@@ -9,3 +11,5 @@
 20:45 - 21:15 -- "Overview of Wireless Channels, Part 1" by Aditya Arun Kumar
 
 21:15 - 21:30 -- Closing Remarks
+
+Video Url: https://www.youtube.com/watch?v=cnRcsgZJzbI
